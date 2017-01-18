@@ -26,6 +26,9 @@ nmap <leader>w :w!<cr>
 " Set 7 lines to the cursor - when moving vertically using j/k
 set so=7
 
+" Set line number
+set nu
+
 " Turn on the WiLd menu ( wildmenu = line status )
 set wildmenu
 
